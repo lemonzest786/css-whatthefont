@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+    text-align: center;
+    background-color: #FCF9BE;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 65px;
+    color: #D94B25;
+
+}
+
+p{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+main{
+    border: 15px solid #7E4B27 ;
+    margin: 8em;
+    padding: 10px;
+}
+.first{
+    color: #EA861A;
+}
+
+.second{
+    color: #99CBA6;
+}
+.third{
+    color: #7E4B27;
+}
+.fourth{
+    color: #D94B25;
+}
